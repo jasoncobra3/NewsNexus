@@ -7,5 +7,5 @@ feedparser
 numpy
 pandas
 requests
-json
+
 
