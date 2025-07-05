@@ -88,8 +88,9 @@ NewsNexus is a real-time news summarization app that scrapes live RSS news, clus
 
 ### 🏠 Home UI with Filtering
 
-![Home UI Screenshot 1](screenshots/home_ui_1.png)
-![Home UI Screenshot 2](screenshots/home_ui_2.png)
+| Home UI 1 | Home UI 2 |
+|---------------|------------------|
+| ![](Screenshots/home_ui_1.png) | ![](Screenshots/home_ui_2.png) |
 
 
 ---
