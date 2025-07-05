@@ -1,0 +1,260 @@
+{
+  "Technology": [
+    {
+      "cluster_id": 1,
+      "summary": "A new AI model developed by a leading tech company has sparked debate over its potential to revolutionize various industries, while also raising concerns about job displacement and ethical implications. Meanwhile, a major tech company has announced a significant investment in renewable energy to power its data centers, aiming to reduce its carbon footprint.",
+      "articles": [
+        {
+          "title": "Family and Liverpool players gather for funeral of Diogo Jota and André Silva",
+          "summary": "The community in Gondomar grieves after the deaths of Liverpool star Diogo Jota and his brother, André Silva.",
+          "published": "Sat, 05 Jul 2025 13:01:40 GMT",
+          "link": "https://www.bbc.com/news/articles/c98jdq57dedo",
+          "source": "BBC News"
+        },
+        {
+          "title": "Why did our aunt leave everything to a complete stranger?",
+          "summary": "A trail of suspicious wills led to an organised gang committing fraud and stealing millions from dead people's estates.",
+          "published": "Fri, 04 Jul 2025 23:10:18 GMT",
+          "link": "https://www.bbc.com/news/articles/cx2390x51zqo",
+          "source": "BBC News"
+        },
+        {
+          "title": "Kim Jong Un Is Doing Everything He Can to Keep North Korea's Youth in Line",
+          "summary": "The dictator, eager to shut out the influence of Hollywood and K-pop, has been exalting a “shock brigade” of 300,000 teens and 20-somethings drafted into flood reconstruction.",
+          "published": "Mon, 27 Jan 2025 01:05:00 -0500",
+          "link": "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de",
+          "source": "WSJ.com: World News"
+        },
+        {
+          "title": "MK Stalin reacts to reunion of Thackeray cousins: ‘Upsurge against Hindi very….'",
+          "summary": "Stalin said that he hopes that 'uprising' in Maharashtra would open eyes of those who were 'parroting' the words that one would get a job if one studied Hindi.",
+          "published": "Sat, 05 Jul 2025 23:02:11 +0530",
+          "link": "https://www.hindustantimes.com/india-news/mk-stalin-welcomes-reunion-of-uddhav-and-raj-thackeray-cousins-upsurge-against-hindi-very-encouraging-101751733644813.html",
+          "source": "India News: Brings you real-time updates and in-depth India News coverage from across the nation | Hindustan Times"
+        },
+        {
+          "title": "Aakash accuses EY of professional misconduct, advising rivals in conflict of interest",
+          "summary": "Byju's founders have also sued EY, citing an email from a whistleblower which shows the involvement of the consultancy firm with GLAS Trust.",
+          "published": "Sat, 05 Jul 2025 22:56:56 +0530",
+          "link": "https://www.hindustantimes.com/india-news/aakash-accuses-ey-of-professional-misconduct-advising-rivals-in-conflict-of-interest-101751736065614.html",
+          "source": "India News: Brings you real-time updates and in-depth India News coverage from across the nation | Hindustan Times"
+        },
+        {
+          "title": "Dalai Lama's message ahead of 90th birthday: ‘Important to work for…’",
+          "summary": "The statement comes as celebrations are underway in Dharamshala ahead of the 90th birthday of the Tibetan spiritual leader, the 14th Dalai Lama.",
+          "published": "Sat, 05 Jul 2025 22:46:04 +0530",
+          "link": "https://www.hindustantimes.com/india-news/dalai-lamas-message-ahead-of-90th-birthday-important-to-work-for-101751732004120.html",
+          "source": "India News: Brings you real-time updates and in-depth India News coverage from across the nation | Hindustan Times"
+        },
+        {
+          "title": "₹1 lakh to paint one wall? Madhya Pradesh school hires 168 labourers, 65 masons: Report",
+          "summary": "In another major twist, the firm that carried out the job created a bill on May 5 of this year, however, the bill was already approved a month before that.",
+          "published": "Sat, 05 Jul 2025 22:27:39 +0530",
+          "link": "https://www.hindustantimes.com/india-news/rs-1-lakh-to-paint-one-wall-madhya-pradesh-school-hires-168-labourers-65-masons-report-101751729617538.html",
+          "source": "India News: Brings you real-time updates and in-depth India News coverage from across the nation | Hindustan Times"
+        },
+        {
+          "title": "Setback for Saif Ali Khan in  ₹15000-crore Pataudi property dispute in Bhopal",
+          "summary": "Mansoor Ali Khan Pataudi married Sharmila Tagore and had three children - Saif, Soha, and Saba - who inherited the property worth around  ₹15,000 crore.",
+          "published": "Sat, 05 Jul 2025 21:28:13 +0530",
+          "link": "https://www.hindustantimes.com/india-news/setback-for-saif-ali-khan-in-15000-crore-pataudi-property-dispute-in-bhopal-101751726409312.html",
+          "source": "India News: Brings you real-time updates and in-depth India News coverage from across the nation | Hindustan Times"
+        },
+        {
+          "title": "‘Bhaiya, ab saans phool raha’: Trapped UPSC aspirant's last text to brother from burning Vishal Mega Mart in Delhi",
+          "summary": "Two men died in the fire that broke out at the retail store located in central Delhi's Karol Bagh area.",
+          "published": "Sat, 05 Jul 2025 21:27:01 +0530",
+          "link": "https://www.hindustantimes.com/india-news/bhaiya-ab-saans-phool-raha-trapped-upsc-aspirants-last-text-to-brother-from-burning-vishal-mega-mart-101751728571675.html",
+          "source": "India News: Brings you real-time updates and in-depth India News coverage from across the nation | Hindustan Times"
+        }
+      ]
+    },
+    {
+      "cluster_id": 2,
+      "summary": "The news discusses advancements in AI, including a new AI model developed by Mistral AI and a partnership between Mistral AI and Microsoft. Additionally, there is a report on the impact of AI on the job market, highlighting the potential for job displacement and the need for workforce adaptation.",
+      "articles": [
+        {
+          "title": "'Too many shots in dog collars': Booze culture at crisis-hit cathedral revealed",
+          "summary": "Priests and choristers at a crisis-hit cathedral did a \"seven last shots of Christ\" drinking game.",
+          "published": "Sat, 05 Jul 2025 06:15:45 GMT",
+          "link": "https://www.bbc.com/news/articles/ckg34410dx7o",
+          "source": "BBC News"
+        },
+        {
+          "title": "After raping law student, accused Monojit Mishra, two others drank alcohol inside Kolkata college: Police",
+          "summary": "According to police, prime accused Monojit has at least 11 criminal cases pending against him, out of which, at least four were related to molestation.",
+          "published": "Sat, 05 Jul 2025 23:13:18 +0530",
+          "link": "https://www.hindustantimes.com/india-news/after-raping-law-student-accused-monojit-mishra-two-others-drank-alcohol-inside-kolkata-college-police-101751735335884.html",
+          "source": "India News: Brings you real-time updates and in-depth India News coverage from across the nation | Hindustan Times"
+        },
+        {
+          "title": "Priest held for sexual assault on two girls in Madhya Pradesh's Chhatarpur",
+          "summary": "The incident took place on Friday in Barwaha village, about 15 km from the district headquarters, under the jurisdiction of the Garhi Malhara police station.",
+          "published": "Sat, 05 Jul 2025 22:35:58 +0530",
+          "link": "https://www.hindustantimes.com/india-news/priest-held-for-sexual-assault-on-two-girls-in-madhya-pradeshs-chhatarpur-101751734875919.html",
+          "source": "India News: Brings you real-time updates and in-depth India News coverage from across the nation | Hindustan Times"
+        }
+      ]
+    },
+    {
+      "cluster_id": 5,
+      "summary": "A new AI model developed by researchers can predict the spread of infectious diseases with high accuracy, potentially revolutionizing public health strategies. The model uses machine learning algorithms to analyze vast amounts of data, providing insights into disease transmission patterns.",
+      "articles": [
+        {
+          "title": "Sydney Jo's viral TikTok group chat drama, and Superman hits cinemas: What's coming up this week",
+          "summary": "Last Pundit Standing also drops on BBC iPlayer, and it's the Esports World Cup.",
+          "published": "Sat, 05 Jul 2025 11:53:10 GMT",
+          "link": "https://www.bbc.com/news/articles/cdjx2k1e0ydo",
+          "source": "BBC News"
+        },
+        {
+          "title": "Oasis kick off their comeback: The best they've been since the 90s",
+          "summary": "The band stage a triumphant show in Cardiff, as they launch their long-awaited reunion tour.",
+          "published": "Fri, 04 Jul 2025 22:46:56 GMT",
+          "link": "https://www.bbc.com/news/articles/cn9y5z5nqe1o",
+          "source": "BBC News"
+        },
+        {
+          "title": "Pune-bound IndiGo flight faces over 4-hour delay as pilot falls sick before takeoff",
+          "summary": "The airline said that it provided \"appropriate\" medical assistance to the pilot and arranged for an alternative crew to operate the flight, 6E2262, on July 4.",
+          "published": "Sat, 05 Jul 2025 22:40:42 +0530",
+          "link": "https://www.hindustantimes.com/india-news/punebound-indigo-flight-faces-over-4-hour-delay-as-pilot-falls-sick-before-takeoff-101751735178972.html",
+          "source": "India News: Brings you real-time updates and in-depth India News coverage from across the nation | Hindustan Times"
+        }
+      ]
+    },
+    {
+      "cluster_id": 4,
+      "summary": "A new AI model is developed to predict earthquakes, while a separate study finds that AI can detect Alzheimer's disease with high accuracy.",
+      "articles": [
+        {
+          "title": "Italy Supports Saudi Arabia Joining Fighter-Jet Program, PM Meloni Says",
+          "summary": "The U.K., Italy and Japan have already partnered on the Global Combat Air Programme, which aims to put a new stealth fighter with supersonic capability in the skies by 2035.",
+          "published": "Mon, 27 Jan 2025 05:34:00 -0500",
+          "link": "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1",
+          "source": "WSJ.com: World News"
+        },
+        {
+          "title": "Trinidad and Tobago joins global UPI network, BHIM in eight countries now: Full list",
+          "summary": "The Caribbean nation has become the first in the region to adopt UPI, with PM Modi's visit emphasising the advancing digital transaction capabilities.",
+          "published": "Sat, 05 Jul 2025 21:02:37 +0530",
+          "link": "https://www.hindustantimes.com/india-news/trinidad-and-tobago-joins-global-upi-network-bhim-in-eight-countries-now-full-list-101751708154766.html",
+          "source": "India News: Brings you real-time updates and in-depth India News coverage from across the nation | Hindustan Times"
+        }
+      ]
+    }
+  ],
+  "Climate": [
+    {
+      "cluster_id": 0,
+      "summary": "The news highlights the impact of climate change on global weather patterns, with record-breaking temperatures and extreme weather events.",
+      "articles": [
+        {
+          "title": "Reform MP loses whip after business Covid loan claims",
+          "summary": "James McMurdock denies any wrongdoing over claims relating to pandemic-era loans taken out by his companies.",
+          "published": "Sat, 05 Jul 2025 16:03:54 GMT",
+          "link": "https://www.bbc.com/news/articles/c78n1dxl8wwo",
+          "source": "BBC News"
+        },
+        {
+          "title": "Labour might be down, but it's not necessarily out - voters reflect on a year in power",
+          "summary": "What’s gone wrong for Labour? 2024 voters delve into it, writes Laura Kuenssberg.",
+          "published": "Sat, 05 Jul 2025 16:11:02 GMT",
+          "link": "https://www.bbc.com/news/articles/cvg8vjm4ee1o",
+          "source": "BBC News"
+        },
+        {
+          "title": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+          "summary": "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.",
+          "published": "Mon, 27 Jan 2025 12:32:00 -0500",
+          "link": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+          "source": "WSJ.com: World News"
+        }
+      ]
+    }
+  ],
+  "Politics": [
+    {
+      "cluster_id": 6,
+      "summary": "The U.S. House of Representatives voted to hold Attorney General Merrick Garland in contempt of Congress over his refusal to release documents related to the FBI's search of former President Trump's Mar-a-Lago residence. The vote came after a contentious hearing where Garland defended the Justice Department's handling of the investigation.",
+      "articles": [
+        {
+          "title": "Arrests after protest in support of Palestine Action, police say",
+          "summary": "It comes after supporting the group was banned under terrorism legislation.",
+          "published": "Sat, 05 Jul 2025 16:53:26 GMT",
+          "link": "https://www.bbc.com/news/articles/c4gd3pkr9x1o",
+          "source": "BBC News"
+        },
+        {
+          "title": "Cocaine-Funded Gangs Shake Colombia Years After Peace Pact",
+          "summary": "Attacks by powerful militias against civilians reflect the state’s inaction eight years after a peace accord removed a powerful rebel group from the field.",
+          "published": "Mon, 27 Jan 2025 07:00:00 -0500",
+          "link": "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da",
+          "source": "WSJ.com: World News"
+        },
+        {
+          "title": "Trump Says Colombia Will Accept Deportees, Ending Tariff Standoff",
+          "summary": "The president has made immigration an early priority to start second term, with ICE making more than 900 arrests Sunday.",
+          "published": "Sun, 26 Jan 2025 22:59:00 -0500",
+          "link": "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497",
+          "source": "WSJ.com: World News"
+        }
+      ]
+    },
+    {
+      "cluster_id": 3,
+      "summary": "The U.S. Senate confirmed a new Supreme Court Justice, while a major political figure announced a presidential run, and a significant policy change was proposed by the administration.",
+      "articles": [
+        {
+          "title": "Ketamine helped me escape my negative thoughts - then it nearly killed me",
+          "summary": "Young people are taking dangerous amounts of ket because it's cheap, easily available and helps them \"disconnect\", experts say.",
+          "published": "Fri, 04 Jul 2025 23:08:50 GMT",
+          "link": "https://www.bbc.com/news/articles/c70r1xdyy59o",
+          "source": "BBC News"
+        },
+        {
+          "title": "Tiny creatures gorge, get fat, and help fight global warming",
+          "summary": "Scientists find out how the epic deep sea migration of a tiny animal is storing planet-warming carbon.",
+          "published": "Fri, 04 Jul 2025 23:10:52 GMT",
+          "link": "https://www.bbc.com/news/articles/c628nnz3rp9o",
+          "source": "BBC News"
+        },
+        {
+          "title": "Palestinians Stream Back to Northern Gaza on Foot",
+          "summary": "Israel allowed displaced Gazans to begin crossing a military zone that bisects the enclave after a deadlock over hostage releases was broken.",
+          "published": "Mon, 27 Jan 2025 14:23:00 -0500",
+          "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+          "source": "WSJ.com: World News"
+        },
+        {
+          "title": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+          "summary": "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.",
+          "published": "Mon, 27 Jan 2025 12:12:00 -0500",
+          "link": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+          "source": "WSJ.com: World News"
+        },
+        {
+          "title": "Suspected Sabotage of Deep-Sea Cable Triggers First NATO-Led Response",
+          "summary": "The alliance mounted its first coordinated response to a suspected sabotage campaign against critical infrastructure after another cable was severed in the Baltic Sea.",
+          "published": "Mon, 27 Jan 2025 11:22:00 -0500",
+          "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+          "source": "WSJ.com: World News"
+        },
+        {
+          "title": "Rwanda-Backed Rebels Enter Congo's Safe-Haven City",
+          "summary": "Residents of Goma reported gunfire and shelling after rebels overran Congolese troops. U.N. officials estimated that more than one million displaced people were now inside the city.",
+          "published": "Mon, 27 Jan 2025 10:07:00 -0500",
+          "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+          "source": "WSJ.com: World News"
+        },
+        {
+          "title": "Shippers Wary of Red Sea Routes Despite Houthi Pledge to End Targeting",
+          "summary": "The world’s top three container operators said they fear instability in Gaza and broader regional tensions mean continued danger.",
+          "published": "Mon, 27 Jan 2025 01:05:00 -0500",
+          "link": "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2",
+          "source": "WSJ.com: World News"
+        }
+      ]
+    }
+  ]
+}

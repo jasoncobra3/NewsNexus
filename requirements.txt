@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-groq
+python-dotenv
+scikit-learn
+feedparser
+numpy
+pandas
+requests
+json
+
