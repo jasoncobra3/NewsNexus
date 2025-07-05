@@ -2,6 +2,8 @@
 
 NewsNexus is a real-time news summarization app that scrapes live RSS news, clusters related stories, and uses LLMs to generate concise summaries. All of this is presented in a clean, interactive Streamlit dashboard with filtering options.
 
+🔗 **Live Demo**: [Click here to try the app on Streamlit](https://newsnexussummarizer.streamlit.app/)
+
 ---
 
 ## 🚀 Features
